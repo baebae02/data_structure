@@ -1,3 +1,4 @@
+//순회 프로그램
 #include <stdio.h>
 #include <stdlib.h>
 
