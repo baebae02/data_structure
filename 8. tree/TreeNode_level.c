@@ -73,3 +73,7 @@ void level_order(TreeNode *ptr){
         }
     }
 }
+
+//      15
+//  4       20
+//1     16      25
